@@ -329,7 +329,7 @@
 				"keyword.operator.wordlike"
 			],
 			"settings": {
-				"foreground": "#5F9DFF"
+				"foreground": "#FFB45E"
 			}
 		},
 		{
@@ -544,7 +544,7 @@
 		{
 			"scope": "keyword.operator.quantifier.regexp",
 			"settings": {
-				"foreground": "#aa7ba7d"
+				"foreground": "#FFB45E"
 			}
 		},
 		{
