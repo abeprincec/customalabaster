@@ -18,5 +18,8 @@
                 "path": "./themes/Abraham-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "url": "https://github.com/abeprincec/customalabaster"
     }
 }
