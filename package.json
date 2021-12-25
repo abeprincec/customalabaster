@@ -13,7 +13,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Abraham",
+                "label": "Custom Alabaster",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Abraham-color-theme.json"
             }
