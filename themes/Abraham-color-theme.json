@@ -48,7 +48,7 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#989898",
+				"foreground": "#6e6e6e",
 				"fontStyle": "italic"
 			}
 		},
