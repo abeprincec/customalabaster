@@ -16,6 +16,7 @@
 		"statusBar.noFolderForeground": "#ffffff",
 		"editorIndentGuide.activeBackground": "#707070",
 		"editorIndentGuide.background": "#404040",
+		"editor.lineHighlightBackground": "#343434",
 	},
 	"tokenColors": [
 		{
