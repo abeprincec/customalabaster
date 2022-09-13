@@ -91,7 +91,8 @@
 		{
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"foreground": "#FFB45E"
+				"foreground": "#F0DAC6"
+				// "foreground": "#FFB45E"
 			}
 		},
 		{
