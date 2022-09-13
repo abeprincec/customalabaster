@@ -56,7 +56,7 @@
 		{
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "#FFB45E"
+				"foreground": "#FF7171"
 			}
 		},
 		{
@@ -67,7 +67,7 @@
 				"keyword.operator.minus.exponent"
 			],
 			"settings": {
-				"foreground": "#FFB45E"
+				"foreground": "#FF7171"
 			}
 		},
 		{
@@ -226,7 +226,7 @@
 		{
 			"scope": "storage.type",
 			"settings": {
-				"foreground": "#5F9DFF"
+				"foreground": "#d680d2"
 			}
 		},
 		{
@@ -235,7 +235,7 @@
 				"keyword.operator.noexcept"
 			],
 			"settings": {
-				"foreground": "#5F9DFF"
+				"foreground": "#d680d2"
 			}
 		},
 		{
@@ -307,13 +307,13 @@
 		{
 			"scope": "keyword.control",
 			"settings": {
-				"foreground": "#5F9DFF"
+				"foreground": "#d680d2"
 			}
 		},
 		{
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#e7e7e7"
 			}
 		},
 		{
@@ -330,7 +330,7 @@
 				"keyword.operator.wordlike"
 			],
 			"settings": {
-				"foreground": "#FFB45E"
+				"foreground": "#d680d2"
 			}
 		},
 		{
@@ -429,7 +429,7 @@
 				"storage.type.primitive.groovy"
 			],
 			"settings": {
-				"foreground": "#5F9DFF"
+				"foreground": "#4EC9B0"
 			}
 		},
 		{
@@ -457,7 +457,7 @@
 				"entity.name.operator"
 			],
 			"settings": {
-				"foreground": "#5F9DFF"
+				"foreground": "#d680d2"
 			}
 		},
 		{
