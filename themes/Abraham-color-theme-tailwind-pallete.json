@@ -143,7 +143,7 @@
     {
       "scope": ["meta.embedded", "source.groovy.embedded"],
       "settings": {
-        "foreground": "#D4D4D4"
+        "foreground": "#A1A1AA"
       }
     },
     {
@@ -679,7 +679,11 @@
       }
     },
     {
-      "scope": "text.html.markdown",
+      "scope": [
+        "text.html.markdown",
+        "meta.jsx.children",
+        "text.html.derivative"
+      ],
       "settings": {
         "foreground": "#e4e4e7"
       }
