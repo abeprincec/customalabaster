@@ -324,7 +324,7 @@
     {
       "scope": "meta.structure.dictionary.key.python",
       "settings": {
-        "foreground": "#e4e4e7"
+        "foreground": "#e5e5e5"
       }
     },
     {
@@ -403,7 +403,7 @@
         "source.coffee.embedded"
       ],
       "settings": {
-        "foreground": "#e4e4e7"
+        "foreground": "#e5e5e5"
       }
     },
     {
@@ -421,7 +421,7 @@
     {
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#e4e4e7"
+        "foreground": "#e5e5e5"
       }
     },
     {
@@ -459,7 +459,7 @@
     {
       "scope": "support.function.git-rebase",
       "settings": {
-        "foreground": "#e4e4e7"
+        "foreground": "#e5e5e5"
       }
     },
     {
@@ -578,21 +578,21 @@
         "constant.other.placeholder" // placeholders in strings
       ],
       "settings": {
-        "foreground": "#e4e4e7"
+        "foreground": "#e5e5e5"
       }
     },
     {
       "name": "Constants and enums",
       "scope": ["variable.other.constant", "variable.other.enummember"],
       "settings": {
-        "foreground": "#e4e4e7"
+        "foreground": "#e5e5e5"
       }
     },
     {
       "name": "Object keys, TS grammar specific",
       "scope": ["meta.object-literal.key"],
       "settings": {
-        "foreground": "#e4e4e7"
+        "foreground": "#e5e5e5"
       }
     },
     {
@@ -685,7 +685,7 @@
         "text.html.derivative"
       ],
       "settings": {
-        "foreground": "#e4e4e7"
+        "foreground": "#e5e5e5"
       }
     }
   ],
