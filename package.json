@@ -21,6 +21,11 @@
         "label": "Custom Alabaster Tailwind",
         "uiTheme": "vs-dark",
         "path": "./themes/Abraham-color-theme-tailwind-pallete.json"
+      },
+      {
+        "label": "Custom Alabaster breeze",
+        "uiTheme": "vs-dark",
+        "path": "./themes/breeze.json"
       }
     ]
   },
