@@ -303,7 +303,7 @@
         "keyword.operator.minus.exponent"
       ],
       "settings": {
-        "foreground": "#99F6E4"
+        "foreground": "#fef3c7"
       }
     },
     {
@@ -315,7 +315,7 @@
     {
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#f472b6"
+        "foreground": "#38bdf8"
       }
     },
     {
@@ -327,7 +327,7 @@
     {
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#c7d2fe"
+        "foreground": "#cbd5e1"
         // "foreground": "#FFB45E"
       }
     },
@@ -460,13 +460,13 @@
     {
       "scope": "storage.type",
       "settings": {
-        "foreground": "#F472B6"
+        "foreground": "#94A3B8"
       }
     },
     {
       "scope": ["storage.modifier", "keyword.operator.noexcept"],
       "settings": {
-        "foreground": "#F472B6"
+        "foreground": "#94A3B8"
       }
     },
     {
@@ -533,7 +533,13 @@
     {
       "scope": "keyword.control",
       "settings": {
-        "foreground": "#F472B6"
+        "foreground": "#94A3B8"
+      }
+    },
+    {
+      "scope": ["keyword.control.conditional"],
+      "settings": {
+        "fontStyle": "italic"
       }
     },
     {
@@ -556,7 +562,7 @@
         "keyword.operator.wordlike"
       ],
       "settings": {
-        "foreground": "#F472B6"
+        "foreground": "#94A3B8"
       }
     },
     {
@@ -655,7 +661,7 @@
         "storage.type.primitive.groovy"
       ],
       "settings": {
-        "foreground": "#38bdf8"
+        "foreground": "#f472b6"
       }
     },
     {
@@ -683,11 +689,11 @@
         "entity.name.operator"
       ],
       "settings": {
-        "foreground": "#F472B6"
+        "foreground": "#94A3B8"
       }
     },
     {
-      "name": "Variable and parameter name",
+      "name": "Variable",
       "scope": [
         "variable",
         "meta.definition.variable.name",
@@ -697,6 +703,13 @@
       ],
       "settings": {
         "foreground": "#f1f5f9"
+      }
+    },
+    {
+      "name": "variable parameter",
+      "scope": ["variable.parameter"],
+      "settings": {
+        "foreground": "#99F6E4"
       }
     },
     {
@@ -757,7 +770,7 @@
     {
       "scope": ["keyword.operator.or.regexp", "keyword.control.anchor.regexp"],
       "settings": {
-        "foreground": "#F472B6"
+        "foreground": "#94A3B8"
       }
     },
     {
