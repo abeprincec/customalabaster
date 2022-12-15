@@ -231,13 +231,13 @@
     "terminal.ansiBrightGreen": "#23d18b",
     "terminal.ansiBrightMagenta": "#d670d6",
     "terminal.ansiBrightRed": "#f14c4c",
-    "terminal.ansiBrightWhite": "#f8fafc",
+    "terminal.ansiBrightWhite": "#f1f5f9",
     "terminal.ansiBrightYellow": "#f5f543",
     "terminal.ansiCyan": "#11a8cd",
     "terminal.ansiGreen": "#0dbc79",
     "terminal.ansiMagenta": "#bc3fbc",
     "terminal.ansiRed": "#cd3131",
-    "terminal.ansiWhite": "#f8fafc",
+    "terminal.ansiWhite": "#f1f5f9",
     "terminal.ansiYellow": "#e5e510",
     "terminal.border": "#1e293b",
     "terminal.foreground": "#cccccc",
@@ -327,7 +327,7 @@
     {
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#a5b4fc"
+        "foreground": "#c7d2fe"
         // "foreground": "#FFB45E"
       }
     },
@@ -442,7 +442,7 @@
     {
       "scope": "meta.structure.dictionary.key.python",
       "settings": {
-        "foreground": "#f8fafc"
+        "foreground": "#f1f5f9"
       }
     },
     {
@@ -521,7 +521,7 @@
         "source.coffee.embedded"
       ],
       "settings": {
-        "foreground": "#f8fafc"
+        "foreground": "#f1f5f9"
       }
     },
     {
@@ -539,7 +539,7 @@
     {
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#f8fafc"
+        "foreground": "#f1f5f9"
       }
     },
     {
@@ -577,7 +577,7 @@
     {
       "scope": "support.function.git-rebase",
       "settings": {
-        "foreground": "#f8fafc"
+        "foreground": "#f1f5f9"
       }
     },
     {
@@ -696,21 +696,21 @@
         "constant.other.placeholder" // placeholders in strings
       ],
       "settings": {
-        "foreground": "#f8fafc"
+        "foreground": "#f1f5f9"
       }
     },
     {
       "name": "Constants and enums",
       "scope": ["variable.other.constant", "variable.other.enummember"],
       "settings": {
-        "foreground": "#f8fafc"
+        "foreground": "#f1f5f9"
       }
     },
     {
       "name": "Object keys, TS grammar specific",
       "scope": ["meta.object-literal.key"],
       "settings": {
-        "foreground": "#f8fafc"
+        "foreground": "#f1f5f9"
       }
     },
     {
@@ -803,7 +803,7 @@
         "text.html.derivative"
       ],
       "settings": {
-        "foreground": "#f8fafc"
+        "foreground": "#f1f5f9"
       }
     },
     {
@@ -821,7 +821,7 @@
         "punctuation.support.type.property-name.end.json"
       ],
       "settings": {
-        "foreground": "#f8fafc"
+        "foreground": "#f1f5f9"
       }
     }
   ],
