@@ -15,7 +15,7 @@
       {
         "label": "Custom Alabaster",
         "uiTheme": "vs-dark",
-        "path": "./themes/breeze.json"
+        "path": "./themes/Abraham-color-theme.json"
       },
       {
         "label": "Custom Alabaster Tailwind",
