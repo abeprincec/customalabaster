@@ -31,6 +31,11 @@
         "label": "Custom Alabaster Doom",
         "uiTheme": "vs-dark",
         "path": "./themes/doom-one.json"
+      },
+      {
+        "label": "Custom Alabaster dark blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Abraham-color-dark-blue.json"
       }
     ]
   },
