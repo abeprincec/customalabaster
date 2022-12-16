@@ -26,6 +26,11 @@
         "label": "Custom Alabaster breeze",
         "uiTheme": "vs-dark",
         "path": "./themes/breeze.json"
+      },
+      {
+        "label": "Custom Alabaster Doom",
+        "uiTheme": "vs-dark",
+        "path": "./themes/doom-one.json"
       }
     ]
   },
