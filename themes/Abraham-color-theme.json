@@ -134,7 +134,12 @@
     "titleBar.border": "#ffffff15",
     "titleBar.inactiveBackground": "#1f1f1f",
     "titleBar.inactiveForeground": "#8b949e",
-    "welcomePage.tileBackground": "#ffffff0f"
+    "welcomePage.tileBackground": "#ffffff0f",
+
+    // hide on scrollbar
+    "editorOverviewRuler.errorForeground": "#00000000",
+    "editorOverviewRuler.warningForeground": "#00000000",
+    "editorOverviewRuler.infoForeground": "#00000000"
   },
   "tokenColors": [
     {
