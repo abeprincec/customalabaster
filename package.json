@@ -15,7 +15,7 @@
       {
         "label": "Custom Alabaster",
         "uiTheme": "vs-dark",
-        "path": "./themes/Abraham-color-theme.json"
+        "path": "./themes/dark-minimal.json"
       },
       {
         "label": "Custom Alabaster Tailwind",
@@ -36,6 +36,11 @@
         "label": "Custom Alabaster dark blue",
         "uiTheme": "vs-dark",
         "path": "./themes/Abraham-color-dark-blue.json"
+      },
+      {
+        "label": "Custom Alabaster dark minimal",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-minimal.json"
       }
     ]
   },
