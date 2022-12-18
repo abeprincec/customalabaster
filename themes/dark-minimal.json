@@ -10,8 +10,9 @@
     "activityBarBadge.foreground": "#8ab4f8",
     "badge.background": "#313946",
     "badge.foreground": "#8ab4f8",
-    "breadcrumb.focusForeground": "#8ab4f890",
+    "breadcrumb.focusForeground": "#ffffffcc",
     "breadcrumb.foreground": "#808080",
+    "breadcrumb.border": "#f00",
     "button.background": "#0f629d",
     "button.border": "#0f629d",
     "button.foreground": "#ffffff",
@@ -44,6 +45,7 @@
     "input.placeholderForeground": "#a5a5a5",
     "inputOption.activeBorder": "#ffffffcc",
     "list.hoverBackground": "#323439",
+    // "list.activeSelectionForeground": "#f00",
     "list.inactiveSelectionBackground": "#44464d",
     "list.inactiveSelectionForeground": "#ececec",
     "panel.background": "#202124",
@@ -69,7 +71,7 @@
     "statusBarItem.prominentHoverBackground": "#202431",
     "tab.activeBackground": "#44464d",
     "tab.activeForeground": "#ececec",
-    "tab.border": "#494c5090",
+    "tab.border": "#494c5066",
     "tab.hoverBackground": "#323439",
     "tab.inactiveBackground": "#202124",
     "tab.inactiveForeground": "#a5a5a5",
@@ -77,8 +79,20 @@
     "tab.unfocusedInactiveForeground": "#a5a5a5",
     "titleBar.activeBackground": "#202124",
     "titleBar.activeForeground": "#eeefff",
-    "titleBar.border": "#494c50",
-    "titleBar.inactiveBackground": "#282828"
+    "titleBar.border": "#494c5066",
+    "titleBar.inactiveBackground": "#282828",
+    "widget.shadow": "#00000000",
+    "scrollbar.shadow": "#00000000",
+    "editor.wordHighlightBackground": "#373737",
+    "editor.wordHighlightBorder": "#111",
+    "editor.wordHighlightStrongBorder": "#999",
+    "editor.wordHighlightStrongBackground": "#313946",
+
+    // hide on scrollbar
+    "editorOverviewRuler.errorForeground": "#00000000",
+    "editorOverviewRuler.warningForeground": "#00000000",
+    "editorOverviewRuler.infoForeground": "#00000000",
+    "editorOverviewRuler.wordHighlightStrongForeground": "#8ab4f8CC"
   },
   "tokenColors": [
     {
