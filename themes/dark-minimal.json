@@ -89,10 +89,7 @@
     "editor.wordHighlightStrongBackground": "#313946",
 
     "editorGroupHeader.border": "#494c5066",
-    // hide on scrollbar
-    "editorOverviewRuler.errorForeground": "#00000000",
-    "editorOverviewRuler.warningForeground": "#00000000",
-    "editorOverviewRuler.infoForeground": "#00000000",
+
     "editorOverviewRuler.wordHighlightStrongForeground": "#8ab4f8CC"
   },
   "tokenColors": [
