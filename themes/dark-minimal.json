@@ -159,13 +159,13 @@
     {
       "scope": "entity.name.tag.css",
       "settings": {
-        "foreground": "#d7ba7d"
+        "foreground": "#e2cb98"
       }
     },
     {
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#D7BA7D"
+        "foreground": "#e2cb98"
       }
     },
     {
@@ -180,7 +180,7 @@
         "entity.other.attribute-name.scss"
       ],
       "settings": {
-        "foreground": "#d7ba7d"
+        "foreground": "#e2cb98"
       }
     },
     {
