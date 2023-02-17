@@ -41,6 +41,11 @@
         "label": "Custom Alabaster dark minimal",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-minimal.json"
+      },
+      {
+        "label": "Custom Alabaster black experimental",
+        "uiTheme": "vs-dark",
+        "path": "./themes/black-experimental.json"
       }
     ]
   },
