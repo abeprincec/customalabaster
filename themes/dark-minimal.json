@@ -124,7 +124,7 @@
     {
       "scope": "comment",
       "settings": {
-        "foreground": "#6A9955"
+        "foreground": "#669955"
       }
     },
     {
@@ -165,7 +165,7 @@
     {
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#d1bf8f"
+        "foreground": "#cccc8f"
       }
     },
     {
