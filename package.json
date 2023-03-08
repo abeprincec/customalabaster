@@ -46,6 +46,11 @@
         "label": "Custom Alabaster black experimental",
         "uiTheme": "vs-dark",
         "path": "./themes/black-experimental.json"
+      },
+      {
+        "label": "Custom Alabaster Codesandbox",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Abraham-code-sandbox.json"
       }
     ]
   },
