@@ -120,11 +120,11 @@
     "tab.unfocusedInactiveForeground": "#757575",
     "terminal.background": "#151515",
     "terminal.foreground": "#ffffff",
-    "titleBar.activeBackground": "#00da63",
+    "titleBar.activeBackground": "#151515",
     "titleBar.activeForeground": "#ffffff",
     "titleBar.border": "#242424",
-    "titleBar.inactiveBackground": "#00da63",
-    "titleBar.inactiveForeground": "#ffffff"
+    "titleBar.inactiveBackground": "#151515",
+    "titleBar.inactiveForeground": "#999999"
   },
   "tokenColors": [
     {
