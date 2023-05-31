@@ -256,16 +256,6 @@
   },
   "tokenColors": [
     {
-      "scope": [
-        "meta.embedded",
-        "source.groovy.embedded",
-        "string meta.image.inline.markdown"
-      ],
-      "settings": {
-        "foreground": "#D4D4D4"
-      }
-    },
-    {
       "scope": "emphasis",
       "settings": {
         "fontStyle": "italic"
@@ -327,7 +317,7 @@
     {
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#f5d0fe"
+        "foreground": "#a7f3d0"
       }
     },
     {
