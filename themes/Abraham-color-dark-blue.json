@@ -14,9 +14,9 @@
     "breadcrumb.background": "#0f172a",
     "breadcrumb.focusForeground": "#e0e0e0",
     "breadcrumb.foreground": "#6b7280",
-    "button.background": "#d8b4fe",
+    "button.background": "#38bdf8",
     "button.foreground": "#ffffff",
-    "button.hoverBackground": "#38bdf8",
+    "button.hoverBackground": "#38bdf8ae",
     "button.secondaryBackground": "#0f172a",
     "button.secondaryForeground": "#f472b6",
     "button.secondaryHoverBackground": "#334155",
@@ -649,7 +649,7 @@
         "storage.type.primitive.groovy"
       ],
       "settings": {
-        "foreground": "#67e8f9"
+        "foreground": "#fb923c"
       }
     },
     {
@@ -663,7 +663,7 @@
         "entity.other.inherited-class"
       ],
       "settings": {
-        "foreground": "#67e8f9"
+        "foreground": "#fb923c"
       }
     },
     {
