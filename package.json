@@ -35,7 +35,7 @@
       {
         "label": "Custom Alabaster dark blue",
         "uiTheme": "vs-dark",
-        "path": "./themes/Abraham-color-dark-blue.json"
+        "path": "./themes/blue.json"
       },
       {
         "label": "Custom Alabaster dark minimal",
