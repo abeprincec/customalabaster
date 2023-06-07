@@ -253,7 +253,8 @@
     "titleBar.inactiveForeground": "#cbd5e199",
     "tree.indentGuidesStroke": "#475569",
     "walkThrough.embeddedEditorBackground": "#00000050",
-    "widget.shadow": "#0000005c"
+    "widget.shadow": "#0000005c",
+    "editorGroupHeader.tabsBorder": "#1e293b"
   },
   "tokenColors": [
     {
