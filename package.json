@@ -18,6 +18,11 @@
         "path": "./themes/blue.json"
       },
       {
+        "label": "Custom Alabaster Dimmed",
+        "uiTheme": "vs-dark",
+        "path": "./themes/blue2.json"
+      },
+      {
         "label": "Custom Alabaster Tailwind",
         "uiTheme": "vs-dark",
         "path": "./themes/Abraham-color-theme-tailwind-pallete.json"
