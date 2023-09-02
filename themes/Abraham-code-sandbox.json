@@ -13,7 +13,7 @@
     "dropdown.border": "#242424",
     "dropdown.foreground": "#ffffff",
     "editor.background": "#151515",
-    "editor.foreground": "#999999",
+    "editor.foreground": "#ABB2BF",
     "editor.hoverHighlightBackground": "#343434",
     "editor.inactiveSelectionBackground": "#343434",
     "editor.lineHighlightBackground": "#242424",
@@ -24,7 +24,7 @@
     "editor.wordHighlightBackground": "#242424",
     "editor.wordHighlightStrongBackground": "#242424",
     "editorBracketMatch.background": "#242424",
-    "editorBracketMatch.border": "#242424",
+    "editorBracketMatch.border": "#555555",
     "editorCodeLens.foreground": "#242424",
     "editorCursor.background": "#151515",
     "editorCursor.foreground": "#ffffff",
@@ -98,14 +98,14 @@
     "selection.background": "#3793e040",
     "sideBar.background": "#151515",
     "sideBar.border": "#242424",
-    "sideBar.foreground": "#e6e6e6",
+    "sideBar.foreground": "#999999",
     "sideBarSectionHeader.background": "#151515",
     "sideBarSectionHeader.border": "#242424",
     "sideBarSectionHeader.foreground": "#ffffff",
     "sideBarTitle.foreground": "#ffffff",
     "statusBar.background": "#242424",
     "statusBar.border": "#242424",
-    "statusBar.foreground": "#ffffff",
+    "statusBar.foreground": "#999",
     "statusBar.noFolderBackground": "#242424",
     "statusBar.noFolderForeground": "#ffffff",
     "statusBarItem.prominentBackground": "#e1270e",
@@ -134,7 +134,7 @@
         "string meta.image.inline.markdown"
       ],
       "settings": {
-        "foreground": "#D4D4D4"
+        "foreground": "#ABB2BF"
       }
     },
     {
@@ -233,14 +233,14 @@
       "scope": "markup.bold",
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#C678DD"
+        "foreground": "#d7ba7d"
       }
     },
     {
       "scope": "markup.heading",
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#C678DD"
+        "foreground": "#6796e6"
       }
     },
     {
@@ -295,7 +295,7 @@
       "name": "brackets of XML/HTML tags",
       "scope": "punctuation.definition.tag",
       "settings": {
-        "foreground": "#808080"
+        "foreground": "#999999"
       }
     },
     {
@@ -367,7 +367,7 @@
     {
       "scope": "string.regexp",
       "settings": {
-        "foreground": "#d16969"
+        "foreground": "#56B6C2"
       }
     },
     {
@@ -385,7 +385,7 @@
       "name": "Reset JavaScript string interpolation expression",
       "scope": ["meta.template.expression"],
       "settings": {
-        "foreground": "#d4d4d4"
+        "foreground": "#ABB2BF"
       }
     },
     {
@@ -398,7 +398,7 @@
         "source.coffee.embedded"
       ],
       "settings": {
-        "foreground": "#E06C75"
+        "foreground": "#ABB2BF"
       }
     },
     {
@@ -465,7 +465,7 @@
         "storage.modifier.package.java"
       ],
       "settings": {
-        "foreground": "#d4d4d4"
+        "foreground": "#ABB2BF"
       }
     },
     {
@@ -575,7 +575,7 @@
         "constant.other.placeholder" // placeholders in strings
       ],
       "settings": {
-        "foreground": "#E06C75"
+        "foreground": "#ABB2BF"
       }
     },
     {
@@ -636,13 +636,13 @@
     {
       "scope": ["keyword.operator.or.regexp", "keyword.control.anchor.regexp"],
       "settings": {
-        "foreground": "#61AFEF"
+        "foreground": "#C678DD"
       }
     },
     {
       "scope": "keyword.operator.quantifier.regexp",
       "settings": {
-        "foreground": "#d7ba7d"
+        "foreground": "#56B6C2"
       }
     },
     {
@@ -654,7 +654,7 @@
     {
       "scope": "constant.character.escape",
       "settings": {
-        "foreground": "#d7ba7d"
+        "foreground": "#56B6C2"
       }
     },
     {
@@ -668,6 +668,12 @@
       "settings": {
         "foreground": "#56B6C2"
       }
+    },
+    {
+      "scope": "support.type.property-name.json",
+      "settings": {
+        "foreground": "#E06C75",
+      }
     }
   ],
   "semanticHighlighting": true,
@@ -675,6 +681,9 @@
     "newOperator": "#C678DD",
     "stringLiteral": "#98C379",
     "customLiteral": "#61AFEF",
-    "numberLiteral": "#D19A66"
+    "numberLiteral": "#D19A66",
+    "interface.defaultLibrary": "#56B6C2",
+    "class.defaultLibrary": "#56B6C2",
+    "type.defaultLibrary": "#56B6C2",
   }
 }

@@ -15,7 +15,7 @@
       {
         "label": "Custom Alabaster",
         "uiTheme": "vs-dark",
-        "path": "./themes/atom.json"
+        "path": "./themes/Abraham-code-sandbox.json"
       },
       {
         "label": "Custom Alabaster Dimmed",
