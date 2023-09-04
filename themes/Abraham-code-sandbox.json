@@ -193,7 +193,7 @@
     {
       "scope": "entity.name.tag.css",
       "settings": {
-        "foreground": "#d7ba7d"
+        "foreground": "#D19A66"
       }
     },
     {
@@ -214,7 +214,7 @@
         "entity.other.attribute-name.scss"
       ],
       "settings": {
-        "foreground": "#d7ba7d"
+        "foreground": "#D19A66"
       }
     },
     {
@@ -295,7 +295,7 @@
       "name": "brackets of XML/HTML tags",
       "scope": "punctuation.definition.tag",
       "settings": {
-        "foreground": "#999999"
+        "foreground": "#ABB2BF"
       }
     },
     {
@@ -378,7 +378,7 @@
         "punctuation.section.embedded"
       ],
       "settings": {
-        "foreground": "#56B6C2"
+        "foreground": "#BE5046"
       }
     },
     {
@@ -433,7 +433,7 @@
     {
       "scope": "keyword.other.unit",
       "settings": {
-        "foreground": "#b5cea8"
+        "foreground": "#D19A66"
       }
     },
     {
@@ -442,7 +442,7 @@
         "punctuation.section.embedded.end.php"
       ],
       "settings": {
-        "foreground": "#C678DD"
+        "foreground": "#BE5046"
       }
     },
     {
