@@ -164,7 +164,7 @@
     {
       "scope": "constant.language",
       "settings": {
-        "foreground": "#C678DD"
+        "foreground": "#a76fb7"
       }
     },
     {
@@ -270,7 +270,7 @@
     {
       "scope": "markup.changed",
       "settings": {
-        "foreground": "#C678DD"
+        "foreground": "#a76fb7"
       }
     },
     {
@@ -301,7 +301,7 @@
     {
       "scope": ["meta.preprocessor", "entity.name.function.preprocessor"],
       "settings": {
-        "foreground": "#C678DD"
+        "foreground": "#a76fb7"
       }
     },
     {
@@ -325,25 +325,25 @@
     {
       "scope": "meta.diff.header",
       "settings": {
-        "foreground": "#C678DD"
+        "foreground": "#a76fb7"
       }
     },
     {
       "scope": "storage",
       "settings": {
-        "foreground": "#C678DD"
+        "foreground": "#a76fb7"
       }
     },
     {
       "scope": "storage.type",
       "settings": {
-        "foreground": "#C678DD"
+        "foreground": "#a76fb7"
       }
     },
     {
       "scope": ["storage.modifier", "keyword.operator.noexcept"],
       "settings": {
-        "foreground": "#C678DD"
+        "foreground": "#a76fb7"
       }
     },
     {
@@ -404,13 +404,13 @@
     {
       "scope": "keyword",
       "settings": {
-        "foreground": "#C678DD"
+        "foreground": "#a76fb7"
       }
     },
     {
       "scope": "keyword.control",
       "settings": {
-        "foreground": "#C678DD"
+        "foreground": "#a76fb7"
       }
     },
     {
@@ -427,7 +427,7 @@
         "keyword.operator.wordlike"
       ],
       "settings": {
-        "foreground": "#C678DD"
+        "foreground": "#a76fb7"
       }
     },
     {
@@ -472,7 +472,7 @@
       "name": "this.self",
       "scope": "variable.language",
       "settings": {
-        "foreground": "#C678DD"
+        "foreground": "#a76fb7"
       }
     },
     {
@@ -562,7 +562,7 @@
         "entity.name.operator"
       ],
       "settings": {
-        "foreground": "#C678DD"
+        "foreground": "#a76fb7"
       }
     },
     {
@@ -636,7 +636,7 @@
     {
       "scope": ["keyword.operator.or.regexp", "keyword.control.anchor.regexp"],
       "settings": {
-        "foreground": "#C678DD"
+        "foreground": "#a76fb7"
       }
     },
     {
@@ -648,7 +648,7 @@
     {
       "scope": "constant.character",
       "settings": {
-        "foreground": "#C678DD"
+        "foreground": "#a76fb7"
       }
     },
     {
@@ -678,7 +678,7 @@
   ],
   "semanticHighlighting": true,
   "semanticTokenColors": {
-    "newOperator": "#C678DD",
+    "newOperator": "#a76fb7",
     "stringLiteral": "#98C379",
     "customLiteral": "#61AFEF",
     "numberLiteral": "#D19A66",
