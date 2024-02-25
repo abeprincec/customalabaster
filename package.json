@@ -18,9 +18,9 @@
         "path": "./themes/Abraham-code-sandbox.json"
       },
       {
-        "label": "Custom Alabaster Dimmed",
+        "label": "Custom Alabaster Lighter",
         "uiTheme": "vs-dark",
-        "path": "./themes/blue2.json"
+        "path": "/themes/Abraham-code-sandbox-lighter.json"
       },
       {
         "label": "Custom Alabaster Tailwind",
