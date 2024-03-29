@@ -177,7 +177,7 @@
         "keyword.operator.minus.exponent"
       ],
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#d4a171"
       }
     },
     {
@@ -195,13 +195,13 @@
     {
       "scope": "entity.name.tag.css",
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#d4a171"
       }
     },
     {
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#d4a171"
       }
     },
     {
@@ -216,7 +216,7 @@
         "entity.other.attribute-name.scss"
       ],
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#d4a171"
       }
     },
     {
@@ -435,7 +435,7 @@
     {
       "scope": "keyword.other.unit",
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#d4a171"
       }
     },
     {
@@ -584,7 +584,7 @@
       "name": "Constants and enums",
       "scope": ["variable.other.constant", "variable.other.enummember"],
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#d4a171"
       }
     },
     {
@@ -683,7 +683,7 @@
     "newOperator": "#a76fb7",
     "stringLiteral": "#98C379",
     "customLiteral": "#61AFEF",
-    "numberLiteral": "#D19A66",
+    "numberLiteral": "#d4a171",
     "interface.defaultLibrary": "#56B6C2",
     "class.defaultLibrary": "#56B6C2",
     "type.defaultLibrary": "#56B6C2",
