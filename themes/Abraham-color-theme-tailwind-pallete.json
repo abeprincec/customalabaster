@@ -21,10 +21,16 @@
     "checkbox.background": "#313131",
     "checkbox.border": "#ffffff15",
     "descriptionForeground": "#8b949e",
-    "diffEditor.insertedLineBackground": "#23863633",
-    "diffEditor.insertedTextBackground": "#2386364d",
-    "diffEditor.removedLineBackground": "#da363333",
-    "diffEditor.removedTextBackground": "#da36334d",
+    "diffEditor.diagonalFill": "#2c2c2c",
+    "diffEditor.insertedLineBackground": "#4ab37733",
+    "diffEditor.insertedTextBackground": "#07c48033",
+    "diffEditor.removedLineBackground": "#ef4f4033",
+    "diffEditor.removedTextBackground": "#ff2e3f33",
+    "diffEditor.unchangedRegionBackground": "#393939",
+    "diffEditor.unchangedRegionForeground": "#707070",
+    "diffEditor.unchangedRegionShadow": "#00000000",
+    "diffEditorGutter.insertedLineBackground": "#42b27752",
+    "diffEditorGutter.removedLineBackground": "#f04c3f52",
     "dropdown.background": "#313131",
     "dropdown.border": "#ffffff17",
     "dropdown.foreground": "#ffffffc5",
@@ -36,9 +42,9 @@
     "editorGroup.border": "#ffffff17",
     "editorGroupHeader.tabsBackground": "#171717",
     "editorGroupHeader.tabsBorder": "#ffffff15",
-    "editorGutter.addedBackground": "#2ea04366",
-    "editorGutter.deletedBackground": "#f8514966",
-    "editorGutter.modifiedBackground": "#bb800966",
+    "editorGutter.addedBackground": "#07c480",
+    "editorGutter.deletedBackground": "#ff2e3f",
+    "editorGutter.modifiedBackground": "#009fff",
     "editorIndentGuide.activeBackground": "#c9d1d93d",
     "editorIndentGuide.background": "#c9d1d921",
     "editorInlayHint.background": "#8b949e33",
@@ -46,13 +52,22 @@
     "editorInlayHint.typeBackground": "#8b949e33",
     "editorInlayHint.typeForeground": "#8b949e",
     "editorLineNumber.activeForeground": "#737373",
-    "editorLineNumber.foreground": "#525252",
+    "editorLineNumber.foreground": "#fefefe3c",
     "editorOverviewRuler.border": "#060109",
+    "editorOverviewRuler.currentContentForeground": "#07c48099",
+    "editorOverviewRuler.incomingContentForeground": "#009fff99",
     "editorWhitespace.foreground": "#484f58",
     "editorWidget.background": "#262626",
     "errorForeground": "#f85149",
     "focusBorder": "#2488d8",
     "foreground": "#ffffffc5",
+    "gitDecoration.addedResourceForeground": "#07c480",
+    "gitDecoration.deletedResourceForeground": "#ff2e3f",
+    "gitDecoration.modifiedResourceForeground": "#009fff",
+    "gitDecoration.renamedResourceForeground": "#009fff",
+    "gitDecoration.stageDeletedResourceForeground": "#ff2e3f",
+    "gitDecoration.stageModifiedResourceForeground": "#009fff",
+    "gitDecoration.untrackedResourceForeground": "#07c480",
     "icon.foreground": "#ffffffc5",
     "input.background": "#ffffff0f",
     "input.border": "#ffffff17",
@@ -63,6 +78,16 @@
     "list.activeSelectionIconForeground": "#ffffff",
     "list.activeSelectionForeground": "#ffffff",
     "menu.background": "#262626",
+    "merge.commonContentBackground": "#00000000",
+    "merge.commonHeaderBackground": "#d0d0d014",
+    "merge.currentContentBackground": "#4ab37733",
+    "merge.currentHeaderBackground": "#42b27752",
+    "merge.incomingContentBackground": "#5490e033",
+    "merge.incomingHeaderBackground": "#4c93e452",
+    "minimapGutter.addedBackground": "#07c480",
+    "minimapGutter.deletedBackground": "#ff2e3f",
+    "minimapGutter.modifiedBackground": "#009fff",
+    "multiDiffEditor.headerBackground": "#1d1d1d",
     "notificationCenterHeader.background": "#262626",
     "notificationCenterHeader.foreground": "#ffffffc5",
     "notifications.background": "#262626",
@@ -83,6 +108,8 @@
     "progressBar.background": "#2488d8",
     "quickInput.background": "#262626",
     "quickInput.foreground": "#ffffffc5",
+    "scmGraph.historyItemHoverAdditionsForeground": "#07c480",
+    "scmGraph.historyItemHoverDeletionsForeground": "#ff2e3f",
     "scrollbar.shadow": "#484f5833",
     "scrollbarSlider.activeBackground": "#6e768187",
     "scrollbarSlider.background": "#6e768133",
@@ -263,19 +290,19 @@
     {
       "scope": "markup.inserted",
       "settings": {
-        "foreground": "#b5cea8"
+        "foreground": "#07c480"
       }
     },
     {
       "scope": "markup.deleted",
       "settings": {
-        "foreground": "#d9f99d"
+        "foreground": "#ff2e3f"
       }
     },
     {
       "scope": "markup.changed",
       "settings": {
-        "foreground": "#60a5fa"
+        "foreground": "#009fff"
       }
     },
     {
