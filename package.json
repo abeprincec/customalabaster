@@ -5,7 +5,7 @@
   "description": "dark",
   "version": "0.75.0",
   "engines": {
-    "vscode": "^1.63.0"
+    "vscode": "^1.91.0"
   },
   "categories": [
     "Themes"
