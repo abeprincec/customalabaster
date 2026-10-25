@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Roles demo</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <!-- main content -->
+    <main id="main" class="card is-active" data-count="3">
+      <h2>Welcome &amp; hello</h2>
+      <button type="button" disabled>Save</button>
+    </main>
+    <script>
+      const button = document.querySelector("button");
+      button.addEventListener("click", () => console.log("saved", 42));
+    </script>
+  </body>
+</html>
