@@ -87,6 +87,13 @@
         "uiTheme": "vs-dark",
         "path": "./themes/black-experimental.json"
       }
+    ],
+    "productIconThemes": [
+      {
+        "id": "customalabaster-codesandbox",
+        "label": "Custom Alabaster Codesandbox",
+        "path": "./producticons/codesandbox.json"
+      }
     ]
   },
   "repository": {

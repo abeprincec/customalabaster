@@ -1,0 +1,14 @@
+{
+  "fonts": [
+    {
+      "id": "customalabaster-icons",
+      "src": [{ "path": "./codesandbox-icons.ttf", "format": "truetype" }],
+      "weight": "normal",
+      "style": "normal"
+    }
+  ],
+  "iconDefinitions": {
+    "new-file": { "fontCharacter": "\\EA7F", "fontId": "customalabaster-icons" },
+    "new-folder": { "fontCharacter": "\\EA80", "fontId": "customalabaster-icons" }
+  }
+}
