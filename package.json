@@ -3,7 +3,7 @@
   "publisher": "Abraham",
   "displayName": "customalabaster",
   "description": "dark",
-  "version": "0.77.0",
+  "version": "0.80.0",
   "engines": {
     "vscode": "^1.91.0"
   },
@@ -36,6 +36,16 @@
         "label": "Custom Alabaster Codesandbox Pierre",
         "uiTheme": "vs-dark",
         "path": "./themes/Abraham-code-sandbox-pierre.json"
+      },
+      {
+        "label": "Custom Alabaster Codesandbox Pierre 2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Abraham-code-sandbox-pierre-2.json"
+      },
+      {
+        "label": "Custom Alabaster Codesandbox Pierre Dark Soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Abraham-code-sandbox-pierre-dark-soft.json"
       },
       {
         "label": "Custom Alabaster Codesandbox Solarized Dark",
@@ -76,6 +86,13 @@
         "label": "Custom Alabaster black experimental",
         "uiTheme": "vs-dark",
         "path": "./themes/black-experimental.json"
+      }
+    ],
+    "productIconThemes": [
+      {
+        "id": "customalabaster-codesandbox",
+        "label": "Custom Alabaster Codesandbox",
+        "path": "./producticons/codesandbox.json"
       }
     ]
   },

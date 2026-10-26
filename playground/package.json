@@ -1,0 +1,10 @@
+{
+  "name": "roles-playground",
+  "private": true,
+  "type": "module",
+  "description": "Try colour palettes on the shared syntax roles of the Custom Alabaster themes",
+  "scripts": {
+    "start": "node server.mjs",
+    "capture": "node tools/capture.mjs"
+  }
+}

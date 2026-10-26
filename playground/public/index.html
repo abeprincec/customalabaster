@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Roles Playground</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="/style.css">
+  <link rel="stylesheet" href="/window.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="brand-name">Roles Playground</span>
+      <span class="brand-sub">Your syntax roles, any palette</span>
+    </div>
+    <div class="actions">
+      <div class="seg" role="group" aria-label="Preview">
+        <button data-view="window" title="A VS Code window in this theme (1)">Window</button>
+        <button data-view="code" title="Just the code (2)">Code</button>
+        <button data-view="gallery" title="Every palette at a glance (3)">Gallery</button>
+      </div>
+      <button id="focusBtn" title="Hide the side panels (F)">Full width</button>
+      <label class="switch" title="Show a second palette next to this one">
+        <input type="checkbox" id="compareToggle"> <span>Compare</span>
+      </label>
+      <button id="importBtn" title="Read a VS Code theme .json file as a palette">Import…</button>
+      <input type="file" id="importFile" accept=".json,.jsonc,application/json" hidden>
+      <button id="copyBtn" title="Copy tokenColors and semanticTokenColors for this palette">Copy JSON</button>
+      <button id="downloadBtn" title="Download a complete VS Code theme file">Download</button>
+      <button id="saveBtn" class="primary" title="Write the theme into this extension's themes folder">Save to extension…</button>
+    </div>
+  </header>
+
+  <main class="layout">
+    <aside class="sidebar">
+      <input id="search" type="search" placeholder="Search themes" autocomplete="off" spellcheck="false">
+      <nav id="paletteList" class="palette-list" aria-label="Palettes"></nav>
+      <p class="sidebar-hint">↑ ↓ palette · ← → file · 1 2 3 view · F full width · Shift-click to compare</p>
+    </aside>
+
+    <section class="center">
+      <div id="banner" class="banner" hidden></div>
+      <nav id="sampleTabs" class="sample-tabs" aria-label="Sample files"></nav>
+      <div id="panes" class="panes"></div>
+      <div id="inspector" class="inspector">Click any token to see which rule and role colour it.</div>
+    </section>
+
+    <aside id="panel" class="panel" aria-label="Palette editor"></aside>
+  </main>
+
+  <dialog id="saveDialog">
+    <form class="save-form">
+      <h2>Save to extension</h2>
+      <label>Theme name
+        <input name="label" required autocomplete="off" spellcheck="false">
+      </label>
+      <label>File
+        <span class="file-row"><span class="file-prefix">themes/</span><input name="file" required autocomplete="off" spellcheck="false"></span>
+      </label>
+      <p class="dialog-hint">Writes the theme file and adds it to <code>package.json</code>. Reload the VS Code window (or restart the Extension Development Host) to pick it.</p>
+      <p class="dialog-error" hidden></p>
+      <menu>
+        <button type="button" id="saveCancel">Cancel</button>
+        <button type="submit" class="primary" id="saveConfirm">Save</button>
+      </menu>
+    </form>
+  </dialog>
+
+  <div id="toast" class="toast" role="status" hidden></div>
+  <script type="module" src="/app.js"></script>
+</body>
+</html>
