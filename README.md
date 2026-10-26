@@ -1,1 +1,1 @@
-Before/after screenshots for the Codesandbox council design pass PR. Not part of the extension.
+Before/after screenshots for the Codesandbox council PRs (#2 and #3). Not part of the extension.
