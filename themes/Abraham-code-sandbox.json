@@ -472,7 +472,7 @@
     "gitDecoration.addedResourceForeground": "#07c480",
     "gitDecoration.conflictingResourceForeground": "#e06c75",
     "gitDecoration.deletedResourceForeground": "#ff2e3f",
-    "gitDecoration.ignoredResourceForeground": "#757575",
+    "gitDecoration.ignoredResourceForeground": "#7f7f7f",
     "gitDecoration.modifiedResourceForeground": "#3682c7",
     "gitDecoration.renamedResourceForeground": "#3682c7",
     "gitDecoration.stageDeletedResourceForeground": "#ff2e3f",
@@ -540,7 +540,7 @@
     "list.activeSelectionBackground": "#242424",
     "list.activeSelectionForeground": "#ffffff",
     "list.activeSelectionIconForeground": "default",
-    "list.deemphasizedForeground": "#757575",
+    "list.deemphasizedForeground": "#7f7f7f",
     "list.dropBackground": "#151515",
     "list.dropBetweenBackground": "#c8c8c8",
     "list.errorForeground": "#e06c75",
@@ -696,7 +696,7 @@
     "panelTitle.activeBorder": "#6cc7f6",
     "panelTitle.activeForeground": "#e6e6e6",
     "panelTitle.border": "default",
-    "panelTitle.inactiveForeground": "#757575",
+    "panelTitle.inactiveForeground": "#7f7f7f",
     "panelTitleBadge.background": "#3b3b3b",
     "panelTitleBadge.foreground": "#a5a5a5",
     "peekView.border": "#343434",
@@ -887,7 +887,7 @@
     "tab.hoverBorder": "default",
     "tab.hoverForeground": "default",
     "tab.inactiveBackground": "#151515",
-    "tab.inactiveForeground": "#757575",
+    "tab.inactiveForeground": "#7f7f7f",
     "tab.inactiveModifiedBorder": "#3682c780",
     "tab.lastPinnedBorder": "#5a5a5a",
     "tab.selectedBackground": "#242424",
@@ -902,7 +902,7 @@
     "tab.unfocusedHoverBorder": "default",
     "tab.unfocusedHoverForeground": "default",
     "tab.unfocusedInactiveBackground": "#151515",
-    "tab.unfocusedInactiveForeground": "#757575",
+    "tab.unfocusedInactiveForeground": "#7f7f7f",
     "tab.unfocusedInactiveModifiedBorder": "#3682c740",
     "terminal.ansiBlack": "#000000",
     "terminal.ansiBlue": "#61afef",
@@ -1065,7 +1065,7 @@
     {
       "scope": "comment",
       "settings": {
-        "foreground": "#5C6370"
+        "foreground": "#7F848E"
       }
     },
     {
@@ -1186,7 +1186,7 @@
     {
       "scope": "punctuation.definition.quote.begin.markdown",
       "settings": {
-        "foreground": "#5C6370"
+        "foreground": "#7F848E"
       }
     },
     {
@@ -1291,7 +1291,7 @@
         "constant.other.placeholder" // printf-style %d, %s
       ],
       "settings": {
-        "foreground": "#BE5046"
+        "foreground": "#CC5D3A"
       }
     },
     {
@@ -1349,7 +1349,7 @@
         "punctuation.section.embedded.end.php"
       ],
       "settings": {
-        "foreground": "#BE5046"
+        "foreground": "#CC5D3A"
       }
     },
     {
