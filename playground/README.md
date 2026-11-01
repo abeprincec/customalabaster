@@ -84,3 +84,8 @@ extensions when you have them, so semantic colours match your editor; pass `--pl
 - `public/`: the app
 - `tools/capture.mjs`: renders the samples in VS Code
 - `samples/`: the sample files (plus `types/` and `tsconfig.json` so TypeScript resolves them)
+
+## Maintaining the Codesandbox variants
+
+See [variant generation and validation](VARIANT-VALIDATION.md) for the palette mapping,
+`npm run generate:variants`, regression checks, visual review, and stack integration steps.

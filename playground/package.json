@@ -5,6 +5,9 @@
   "description": "Try colour palettes on the shared syntax roles of the Custom Alabaster themes",
   "scripts": {
     "start": "node server.mjs",
-    "capture": "node tools/capture.mjs"
+    "capture": "node tools/capture.mjs",
+    "generate:variants": "node tools/generate-variants.mjs",
+    "check:variants": "node tools/generate-variants.mjs --check",
+    "test": "node --test tests/*.test.mjs"
   }
 }

@@ -4,3 +4,5 @@
 vsc-extension-quickstart.md
 playground/**
 producticons/build.py
+
+.github/**
