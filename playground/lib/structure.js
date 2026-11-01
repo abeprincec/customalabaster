@@ -9,7 +9,7 @@ export const ROLES = [
   { id: 'function', label: 'Functions', hint: 'Function and method names, where declared and called', group: 'main' },
   { id: 'type', label: 'Types', hint: 'Classes, interfaces, type names, JSX components', group: 'main' },
   { id: 'builtin', label: 'Built-ins', hint: 'string, number, Map, namespaces, operators, regex', group: 'main' },
-  { id: 'constant', label: 'Constants', hint: 'Numbers, const variables, enum members, attributes', group: 'main' },
+  { id: 'constant', label: 'Constants', hint: 'Numbers, module constants, enum members, attributes', group: 'main' },
   { id: 'string', label: 'Strings', hint: 'Strings, CSS values, inline code', group: 'main' },
   { id: 'tag', label: 'Tags', hint: 'HTML and JSX tags, JSON keys', group: 'main' },
   { id: 'embedded', label: 'Embedded', hint: '${ } in template strings, { } in JSX', group: 'main' },
@@ -24,7 +24,7 @@ export const ROLES = [
   { id: 'defaultText', label: 'Unscoped text (editor.foreground)', parent: 'plain', group: 'detail' },
   { id: 'label', label: 'Labels', parent: 'plain', group: 'detail' },
   { id: 'invalid', label: 'Invalid code', parent: 'tag', group: 'detail' },
-  { id: 'regexClass', label: 'Regex classes  \\d \\w', parent: 'tag', group: 'detail' },
+  { id: 'regexClass', label: 'Regex classes  \\d \\w', parent: 'builtin', group: 'detail' },
   // Status colours used by diffs and log files.
   { id: 'diffInserted', label: 'Diff inserted', group: 'status' },
   { id: 'diffDeleted', label: 'Diff deleted', group: 'status' },
